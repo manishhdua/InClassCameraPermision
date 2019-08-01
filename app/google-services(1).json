@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539613438311",
+    "firebase_url": "https://mdev1008two.firebaseio.com",
+    "project_id": "mdev1008two",
+    "storage_bucket": "mdev1008two.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539613438311:android:956568a161161efb",
+        "android_client_info": {
+          "package_name": "com.example.firebasedb_inclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539613438311-f5isa5joeu250jjv586fp54f90i378ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ap2D56gD52QACcHA4zlnwFLF2e89D_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539613438311-f5isa5joeu250jjv586fp54f90i378ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
